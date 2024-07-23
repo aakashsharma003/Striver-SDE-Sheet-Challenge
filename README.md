@@ -15,4 +15,12 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
