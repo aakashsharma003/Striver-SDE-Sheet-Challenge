@@ -7,6 +7,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
