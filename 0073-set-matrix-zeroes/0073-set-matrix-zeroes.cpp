@@ -12,19 +12,12 @@ public:
             }
         }
         for(int i = 0;i < m;i++){
-            if(x[i] == 0){
               for(int j = 0;j < n;j++){
+                if(x[i] == 0 || y[j] == 0)
                 matrix[i][j] = 0;
-              }
             }
         }
-        for(int j = 0;j < n;j++){
-            if(y[j] == 0){
-              for(int i = 0;i < m;i++){
-                matrix[i][j] = 0;
-              }
-            }
-        }
+       
         return;
     }
 };
