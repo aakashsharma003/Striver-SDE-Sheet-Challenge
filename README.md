@@ -7,6 +7,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -51,5 +52,6 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0056-merge-intervals) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
 <!---LeetCode Topics End-->
