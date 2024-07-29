@@ -13,6 +13,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
+| [1511-count-number-of-teams](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1511-count-number-of-teams) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1511-count-number-of-teams) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +101,8 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
