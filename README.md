@@ -28,6 +28,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## String Matching
 |  |
@@ -39,6 +40,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Math
 |  |
 | ------- |
@@ -105,4 +107,8 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1511-count-number-of-teams) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
