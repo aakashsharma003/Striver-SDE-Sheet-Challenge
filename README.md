@@ -8,6 +8,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0031-next-permutation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
@@ -119,4 +120,5 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0046-permutations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
