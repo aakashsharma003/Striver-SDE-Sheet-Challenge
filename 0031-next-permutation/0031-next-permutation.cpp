@@ -1,6 +1,12 @@
 class Solution {
 public:
-
+   void reverse(int l,int r, vector<int> &arr){
+     int n = r - l + 1;
+      for(int i = 0;i < n/2;i++){
+        swap(arr[i + l], arr[n - 1 - i + l]);
+      }
+     return;
+   }
 
     void nextPermutation(vector<int>& nums) {
         int indx = -1, n = nums.size();
@@ -11,7 +17,7 @@ public:
             }
         }
         if(indx == -1){
-             reverse(nums.begin() + 0,nums.end());
+             reverse(0, n - 1, nums);
              return;
         }
         for(int i = n - 1;i > indx;i--){
@@ -22,7 +28,7 @@ public:
             }
         }
         // cout<<indx<<" "<<endl;
-        reverse(nums.begin() + indx + 1, nums.end());
+        reverse(indx + 1, n - 1, nums);
         return;
     }
 };
