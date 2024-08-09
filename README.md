@@ -137,6 +137,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0155-min-stack) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
@@ -155,4 +156,8 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
