@@ -137,6 +137,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0155-min-stack) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
@@ -160,4 +161,20 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
