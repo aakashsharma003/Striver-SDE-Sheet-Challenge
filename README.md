@@ -169,6 +169,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Tree
 |  |
 | ------- |
