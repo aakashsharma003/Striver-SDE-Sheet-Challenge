@@ -6,6 +6,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0047-permutations-ii) |
@@ -28,6 +29,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
