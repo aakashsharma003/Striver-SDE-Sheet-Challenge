@@ -9,6 +9,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0001-two-sum](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
@@ -156,6 +157,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0047-permutations-ii) |
 ## Sliding Window
