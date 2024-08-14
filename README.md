@@ -63,6 +63,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 | [1196-filling-bookcase-shelves](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -72,6 +73,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
 ## Two Pointers
 |  |
@@ -214,4 +216,8 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
