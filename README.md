@@ -17,6 +17,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
@@ -170,6 +171,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
