@@ -11,7 +11,10 @@ public:
             }
             i = j;
             }
-            else i++;
+            else{ 
+               while(i < nums.size() && nums[i] == 0) 
+                i++;
+            }
             maxi = max(cnt, maxi);
         }
         return maxi;
