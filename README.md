@@ -40,6 +40,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0264-ugly-number-ii) |
@@ -58,6 +59,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
@@ -87,6 +89,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0264-ugly-number-ii) |
