@@ -109,6 +109,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0476-number-complement](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0476-number-complement) |
 ## Sorting
 |  |
 | ------- |
