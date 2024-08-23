@@ -11,7 +11,6 @@ class Solution {
          if(exp.charAt(0) != '-'){
           exp = '+' + exp;
         }
-        System.out.println(exp);
         for(int i = 0;i < exp.length() - 1;i++){
             if(exp.charAt(i) == '/'){
                 int val = 0, j = i + 1;
