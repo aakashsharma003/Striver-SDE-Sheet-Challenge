@@ -176,6 +176,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -218,23 +219,27 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Union Find
 |  |
