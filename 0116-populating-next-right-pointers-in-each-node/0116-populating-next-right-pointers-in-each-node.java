@@ -32,14 +32,13 @@ class Solution {
             int size = q.size();
             Node prev = null;
             for(int i = 0;i < size;i++){
-                Node cur = q.peek();
-                if(i > 0 && prev != null){
+                Node cur = q.poll();
+                if(prev != null){
                     prev.next = cur;
                 }
                 if(cur.left != null) q.add(cur.left);
                 if(cur.right != null) q.add(cur.right);
-                  prev = cur;
-                q.remove();
+                prev = cur;
             }
         }
     }
