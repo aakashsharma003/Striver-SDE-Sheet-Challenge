@@ -1,13 +1,8 @@
 class Solution {
     static int gcd(int a, int b)
     {
-        // if b=0, a is the GCD
         if (b == 0)
             return a;
- 
-        // call the gcd() method recursively by
-        // replacing a with b and b with
-        // difference(a,b) as long as b != 0
         else
             return gcd(b, Math.abs(a - b));
     }
@@ -26,12 +21,10 @@ class Solution {
                     val = val*10 + (int)(exp.charAt(j) - '0');
                     j++;
                 }
-                // System.out.println(val);
-                den *= val;
+                den = den*val;
             }
         }
-       System.out.println(den);
-
+    
         for(int i = 0;i < exp.length() - 3;){
             char op = exp.charAt(i);
             System.out.println(i);
@@ -48,14 +41,11 @@ class Solution {
                 d = d*10 + (exp.charAt(j) - '0');
                 j++;
             }
-            // System.out.println("d" + d);
             int val = (den / d) * numr;
            
             num = (op == '+' ? num + val : num - val);
-            //  System.out.println(den + " " + val);
              i = j;
         }
-        // System.out.println(num + "/" + den);
         int div = gcd(num, den);
         num /= div;
         den /= div;
@@ -63,7 +53,6 @@ class Solution {
         ans += num;
         ans += '/';
         ans = (num == 0 ? ans + 1: ans + den);
-        System.out.println(ans);
        return ans; 
     }
 }
