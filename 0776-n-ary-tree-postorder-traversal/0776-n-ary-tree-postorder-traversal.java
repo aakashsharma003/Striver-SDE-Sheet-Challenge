@@ -18,21 +18,18 @@ class Node {
 */
 
 class Solution {
+    public void solve(Node curr, List<Integer> ls){
+        for(var child: curr.children)
+            if(child != null) solve(child, ls);
+
+        ls.add(curr.val);
+        return;
+    }
+
     public List<Integer> postorder(Node root) {
         List<Integer> ans = new ArrayList<Integer>();
         if(root == null) return ans;
-        Stack<Node> stk = new Stack<Node>();
-        stk.push(root);
-        while(!stk.isEmpty()){
-            int size = stk.size(); 
-            for(int i = 0;i < size;i++){
-                Node curnode = stk.pop();
-                for(var child: curnode.children)
-                    if(child != null) stk.push(child);
-                 ans.add(curnode.val);
-            }
-        }
-        Collections.reverse(ans);
+        solve(root, ans);
         return ans;
     }
 }
