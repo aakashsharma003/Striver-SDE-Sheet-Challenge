@@ -34,6 +34,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -62,6 +63,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
 ## String
 |  |
 | ------- |
@@ -196,6 +198,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -263,6 +266,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -276,6 +280,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
