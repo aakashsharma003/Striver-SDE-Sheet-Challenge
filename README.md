@@ -24,6 +24,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0496-next-greater-element-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0496-next-greater-element-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
@@ -53,6 +54,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0347-top-k-frequent-elements](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -323,6 +325,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Monotonic Stack
