@@ -15,6 +15,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0048-rotate-image](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -124,6 +125,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0018-4sum](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -145,6 +147,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0018-4sum](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
