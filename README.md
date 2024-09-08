@@ -57,6 +57,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0264-ugly-number-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0496-next-greater-element-i) |
+| [0652-find-duplicate-subtrees](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -277,6 +278,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -288,6 +290,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -302,6 +305,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1484-linked-list-in-binary-tree) |
