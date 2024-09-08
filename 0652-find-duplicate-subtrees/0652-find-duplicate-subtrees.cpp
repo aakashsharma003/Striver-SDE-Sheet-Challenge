@@ -22,8 +22,6 @@ public:
           right = "R";
         else right = solve(node->right, mp);
         string cur = to_string(node->val);
-        // mp[cur + left] = true;
-        // mp[cur + right] = true;
         if(mp.find(cur + "->"+ left + "->" + right) != mp.end()){
             if(mp[cur + "->"+ left + "->" + right])
             ans.push_back(node);
