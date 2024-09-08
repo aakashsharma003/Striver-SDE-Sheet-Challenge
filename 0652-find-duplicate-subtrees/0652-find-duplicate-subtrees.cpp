@@ -24,15 +24,15 @@ public:
         string cur = to_string(node->val);
         // mp[cur + left] = true;
         // mp[cur + right] = true;
-        if(mp.find(cur + " "+ left + " " + right) != mp.end()){
-            if(mp[cur + " "+ left + " " + right])
+        if(mp.find(cur + "->"+ left + "->" + right) != mp.end()){
+            if(mp[cur + "->"+ left + "->" + right])
             ans.push_back(node);
-            mp[cur + " "+ left + " " + right] = false;
+            mp[cur + "->"+ left +"->" + right] = false;
         }
         else 
-        mp[cur + " "+ left + " " + right] = true;
+        mp[cur + "->"+ left + "->" + right] = true;
         
-        return cur + " "+ left + " " + right;
+        return cur + "->"+ left + "->" + right;
     }
     vector<TreeNode*> findDuplicateSubtrees(TreeNode* root) {
         unordered_map<string, bool>mp;
