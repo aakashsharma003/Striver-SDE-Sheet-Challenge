@@ -1,21 +1,48 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
+ * };
+ */
 class Solution {
 public:
+    bool solve(ListNode* cur, ListNode* head,TreeNode* node){
+       if(!node || !cur) return cur == nullptr;
+       bool left = false, right = false;
+       if(node->val == cur->val){
+            left = solve(cur->next, head, node->left);
+            right = solve(cur->next, head, node->right);
+       }
+       else{
+          left = solve(head, head, node->left);
+          right = solve(head, head, node->right);
+       }
+    //    cout<<"node"<<node->val<<endl;
+    //    cout<<left<<" "<<right<<endl;
+      return left || right;
+   }
+
     bool isSubPath(ListNode* head, TreeNode* root) {
-        return dfs(head, head, root);
+        if(!head || !root)return false;
+
+        return solve(head, head, root)|| isSubPath(head,root->left) || isSubPath(head,root->right);
+
     }
-    
-    bool dfs(ListNode* head, ListNode* cur, TreeNode* root) {
-        if (cur == nullptr) return true;  // Successfully matched the list
-        if (root == nullptr) return false; // Reached the end of the tree without matching
-        
-        if (cur->val == root->val) {
-            cur = cur->next;  // Move to the next list node if value matches
-        } else if (head->val == root->val) {
-            head = head->next; // Start new matching attempt if the value matches head of list
-        } else {
-            cur = head;  // Reset the matching pointer
-        }
-        
-        return dfs(head, cur, root->left) || dfs(head, cur, root->right); // Recursively check left and right subtrees
-    }
+
 };
