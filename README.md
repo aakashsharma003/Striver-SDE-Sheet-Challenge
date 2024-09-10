@@ -126,6 +126,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0909-stone-game](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0909-stone-game) |
 | [1808-stone-game-vii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1808-stone-game-vii) |
 | [2155-find-missing-observations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2155-find-missing-observations) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +272,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0237-delete-node-in-a-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1484-linked-list-in-binary-tree) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -367,4 +369,8 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
