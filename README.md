@@ -44,6 +44,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2727-number-of-senior-citizens) |
+| [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -113,6 +114,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1808-stone-game-vii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1808-stone-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 ## Math
 |  |
 | ------- |
