@@ -26,6 +26,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0347-top-k-frequent-elements](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0496-next-greater-element-i) |
+| [0539-minimum-time-difference](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
@@ -89,6 +90,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0115-distinct-subsequences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0664-strange-printer) |
@@ -133,6 +135,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0062-unique-paths](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0909-stone-game](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0909-stone-game) |
@@ -174,6 +177,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0088-merge-sorted-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
