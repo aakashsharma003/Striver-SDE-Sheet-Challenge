@@ -9,6 +9,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0001-two-sum](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0047-permutations-ii) |
@@ -150,6 +151,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
