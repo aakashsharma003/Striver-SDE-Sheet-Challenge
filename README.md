@@ -93,6 +93,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0115-distinct-subsequences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0564-find-the-closest-palindrome) |
@@ -121,6 +122,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0115-distinct-subsequences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0909-stone-game) |
@@ -138,6 +140,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0013-roman-to-integer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0062-unique-paths) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0539-minimum-time-difference) |
@@ -288,6 +291,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
 ## Design
 |  |
@@ -396,6 +400,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
