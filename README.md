@@ -93,6 +93,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0115-distinct-subsequences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0539-minimum-time-difference) |
@@ -114,6 +115,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
@@ -410,4 +412,12 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
