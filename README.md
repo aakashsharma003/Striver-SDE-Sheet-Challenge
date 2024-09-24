@@ -54,6 +54,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2727-number-of-senior-citizens](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2444-longest-ideal-subsequence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2444-longest-ideal-subsequence) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -112,6 +114,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2727-number-of-senior-citizens](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
@@ -400,6 +403,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0139-word-break](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0386-lexicographical-numbers) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
