@@ -67,6 +67,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0208-implement-trie-prefix-tree](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0432-all-oone-data-structure](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -305,6 +306,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0155-min-stack](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0432-all-oone-data-structure](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
@@ -313,6 +315,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1484-linked-list-in-binary-tree) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -430,4 +433,8 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0214-shortest-palindrome) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
