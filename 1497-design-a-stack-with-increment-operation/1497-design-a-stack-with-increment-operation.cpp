@@ -1,32 +1,27 @@
 class CustomStack {
 public:
-     deque<int>dq;
-     int size;
+     vector<int>arr;
+     int top = -1, size;
     CustomStack(int maxSize) {
+        arr.resize(maxSize);
         size = maxSize;
     }
     
     void push(int x) {
-        if(dq.size() == size) return;
-        dq.push_back(x);
+        if(top == size - 1) return;
+        arr[++top] = x;
     }
     
     int pop() {
-        if(!dq.size()) return -1;
-        int back = dq.back();
-        dq.pop_back();
-        return back;
+        if(top == -1) return -1;
+        int val = arr[top];
+        top--;
+        return val;
     }
     
     void increment(int k, int val) {
-        vector<int>temp;
-        int op = min(k, (int)dq.size());
-
-        while(op--){
-            temp.push_back(dq.front() + val);
-            dq.pop_front();
-        }
-        for(int i = temp.size() - 1;i >= 0;i--) dq.push_front(temp[i]);
+        for(int i = 0;i <= min(k - 1, top);i++)
+        arr[i] += val;
         return;
     }
 };
