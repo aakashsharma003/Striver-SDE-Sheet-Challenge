@@ -22,6 +22,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0088-merge-sorted-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -179,6 +180,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
