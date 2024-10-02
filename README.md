@@ -37,6 +37,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1196-filling-bookcase-shelves) |
+| [1256-rank-transform-of-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
@@ -78,6 +79,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0920-uncommon-words-from-two-sentences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -202,6 +204,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0347-top-k-frequent-elements](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
