@@ -60,6 +60,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -209,6 +211,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -248,6 +251,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
 ## Graph
 |  |
 | ------- |
@@ -448,4 +452,8 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0432-all-oone-data-structure) |
+## Enumeration
+|  |
+| ------- |
+| [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
 <!---LeetCode Topics End-->
