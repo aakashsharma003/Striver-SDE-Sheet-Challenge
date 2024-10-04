@@ -62,6 +62,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## String
 |  |
 | ------- |
@@ -152,6 +154,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2067-maximum-number-of-points-with-cost](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2444-longest-ideal-subsequence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2444-longest-ideal-subsequence) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +200,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0476-number-complement](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Sorting
 |  |
 | ------- |
@@ -459,4 +463,8 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
+## Bitmask
+|  |
+| ------- |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 <!---LeetCode Topics End-->
