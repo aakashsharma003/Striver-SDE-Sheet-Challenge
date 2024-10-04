@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int dp[101][101][1 << 10];
+    int dp[101][101][(1 << 10) + 1];
     int solve(int indx, vector<pair<int,int>>&arr, int prev, int mask){
         if(indx == arr.size()) return 0;
         if(dp[indx][prev][mask] != -1) return dp[indx][prev][mask];
@@ -21,7 +21,6 @@ public:
             arr.push_back({grid[i][j], i});
     }
     sort(arr.begin(), arr.end());
-    // int mask = 0;
     memset(dp, -1, sizeof(dp));
     return solve(0, arr, 0, 0);
     }
