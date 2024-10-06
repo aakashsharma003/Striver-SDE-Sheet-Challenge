@@ -50,6 +50,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1694-make-sum-divisible-by-p](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1808-stone-game-vii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1808-stone-game-vii) |
+| [1923-sentence-similarity-iii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -127,6 +128,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1923-sentence-similarity-iii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -188,6 +190,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1923-sentence-similarity-iii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
