@@ -65,6 +65,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## String
 |  |
@@ -247,6 +249,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1325-path-with-maximum-probability](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2803-modify-graph-edge-weights) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -280,6 +283,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2171-second-minimum-time-to-reach-destination](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -288,6 +292,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2171-second-minimum-time-to-reach-destination](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,6 +303,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
