@@ -36,6 +36,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0909-stone-game](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1325-path-with-maximum-probability) |
@@ -316,6 +317,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0155-min-stack](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1002-maximum-width-ramp](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -448,6 +450,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0496-next-greater-element-i) |
+| [1002-maximum-width-ramp](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1002-maximum-width-ramp) |
 ## Trie
 |  |
 | ------- |
