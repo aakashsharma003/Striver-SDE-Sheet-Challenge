@@ -131,6 +131,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0664-strange-printer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -356,6 +357,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -453,6 +455,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2155-find-missing-observations) |
