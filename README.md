@@ -131,6 +131,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0664-strange-printer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1197-parsing-a-boolean-expression](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -327,6 +328,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0496-next-greater-element-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -357,6 +359,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0273-integer-to-english-words) |
+| [1197-parsing-a-boolean-expression](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
