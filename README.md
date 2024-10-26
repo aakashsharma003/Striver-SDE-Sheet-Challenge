@@ -519,5 +519,6 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0197-rising-temperature) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
