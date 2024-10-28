@@ -60,6 +60,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
@@ -99,6 +100,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2444-longest-ideal-subsequence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2444-longest-ideal-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -171,6 +173,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1808-stone-game-vii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1808-stone-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2444-longest-ideal-subsequence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2444-longest-ideal-subsequence) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Math
@@ -215,6 +218,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -240,6 +244,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
 ## Divide and Conquer
