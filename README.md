@@ -120,6 +120,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0179-largest-number) |
@@ -329,6 +330,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0155-min-stack) |
