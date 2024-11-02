@@ -145,6 +145,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2444-longest-ideal-subsequence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2444-longest-ideal-subsequence) |
+| [2580-circular-sentence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3195-separate-black-and-white-balls) |
