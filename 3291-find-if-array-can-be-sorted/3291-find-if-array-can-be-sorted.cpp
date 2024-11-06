@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool canSortArray(vector<int>& nums) {
+     bool canSortArray(vector<int>& nums) {
        vector<vector<int>>grp;
        for(int i = 0;i < nums.size(); ){
            grp.push_back({});
