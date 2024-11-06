@@ -65,6 +65,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2727-number-of-senior-citizens](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
@@ -229,6 +230,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0476-number-complement](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3291-find-if-array-can-be-sorted](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Sorting
 |  |
@@ -249,6 +251,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 | [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
 ## Divide and Conquer
 |  |
