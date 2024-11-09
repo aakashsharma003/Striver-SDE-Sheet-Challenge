@@ -231,6 +231,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1435-xor-queries-of-a-subarray](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3394-minimum-array-end) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Sorting
 |  |
