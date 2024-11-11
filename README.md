@@ -62,6 +62,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -195,6 +196,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0909-stone-game](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0909-stone-game) |
 | [1808-stone-game-vii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1808-stone-game-vii) |
 | [2155-find-missing-observations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2155-find-missing-observations) |
+| [2716-prime-subtraction-operation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -223,6 +225,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -367,6 +370,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0890-lemonade-change) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -508,6 +512,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Rolling Hash
 |  |
