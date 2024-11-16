@@ -70,6 +70,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [3291-find-if-array-can-be-sorted](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3534-count-almost-equal-pairs-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3534-count-almost-equal-pairs-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -363,6 +364,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0567-permutation-in-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
