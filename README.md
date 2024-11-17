@@ -34,6 +34,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0624-maximum-distance-in-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
@@ -224,6 +225,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
@@ -273,6 +275,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0347-top-k-frequent-elements](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1325-path-with-maximum-probability) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -363,6 +366,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0567-permutation-in-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
@@ -510,6 +514,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0238-product-of-array-except-self) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -543,4 +548,12 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0197-rising-temperature](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0197-rising-temperature) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
