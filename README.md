@@ -52,6 +52,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1808-stone-game-vii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1808-stone-game-vii) |
 | [1923-sentence-similarity-iii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1923-sentence-similarity-iii) |
@@ -367,6 +368,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0567-permutation-in-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
