@@ -56,6 +56,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1808-stone-game-vii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1808-stone-game-vii) |
 | [1923-sentence-similarity-iii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -123,6 +124,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1972-rotating-the-box](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2035-count-sub-islands) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -221,6 +223,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1923-sentence-similarity-iii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1972-rotating-the-box) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
