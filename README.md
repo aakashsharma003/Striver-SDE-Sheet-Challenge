@@ -33,6 +33,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0539-minimum-time-difference](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0787-sliding-puzzle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0787-sliding-puzzle) |
 | [0890-lemonade-change](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
@@ -122,6 +123,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0048-rotate-image](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0787-sliding-puzzle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1972-rotating-the-box) |
@@ -340,6 +342,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0787-sliding-puzzle](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
