@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findChampion(int n, vector<vector<int>>& edges) {
-        vector<int>indeg(n,0);
+         vector<int>indeg(n,0);
         
         for(auto &v: edges){
             indeg[v[1]]++;
