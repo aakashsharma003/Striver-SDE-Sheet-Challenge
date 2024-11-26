@@ -326,6 +326,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
