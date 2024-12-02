@@ -154,6 +154,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1197-parsing-a-boolean-expression) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -177,6 +178,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +227,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0287-find-the-duplicate-number](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1923-sentence-similarity-iii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1923-sentence-similarity-iii) |
