@@ -53,6 +53,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1808-stone-game-vii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1808-stone-game-vii) |
@@ -156,6 +157,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1197-parsing-a-boolean-expression](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1197-parsing-a-boolean-expression) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -193,6 +195,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1196-filling-bookcase-shelves](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1511-count-number-of-teams) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1808-stone-game-vii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1808-stone-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2067-maximum-number-of-points-with-cost) |
