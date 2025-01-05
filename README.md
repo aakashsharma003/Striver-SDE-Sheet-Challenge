@@ -67,6 +67,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2465-shifting-letters-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2465-shifting-letters-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
@@ -167,6 +168,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [2163-kth-distinct-string-in-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2444-longest-ideal-subsequence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2444-longest-ideal-subsequence) |
+| [2465-shifting-letters-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2727-number-of-senior-citizens) |
@@ -553,6 +555,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [1435-xor-queries-of-a-subarray](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2465-shifting-letters-ii](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/2465-shifting-letters-ii) |
 ## Number Theory
 |  |
 | ------- |
