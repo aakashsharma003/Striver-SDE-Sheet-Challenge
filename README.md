@@ -40,6 +40,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1025-minimum-cost-for-tickets) |
@@ -107,6 +108,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0906-walking-robot-simulation](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1256-rank-transform-of-an-array) |
@@ -158,6 +160,7 @@ This is my repo containing all the codes for Striver's SDE Sheet Challenge 2023
 | [0664-strange-printer](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1197-parsing-a-boolean-expression) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/aakashsharma003/Striver-SDE-Sheet-Challenge/tree/master/1667-find-kth-bit-in-nth-binary-string) |
